@@ -1,0 +1,13 @@
+# LV-Crew.org_(LVC)_-_hosts_-_8.0_-_Safer-Networking.org_-_Spybot_-_Search_and_Destroy_(S&D)_Immunisation_List_for_IP6_by_LVC.txt
+# (C)reated by: LV-Crew.org (LVC)
+# From        : slim23
+# Version (At): v2016-08-15
+
+# Download-Folder-URL: http://preview.tinyurl.com/LVC-files -> \own_stuff\LV-Crew.org_(LVC)_-_hosts_files\LV-Crew.org_(LVC)_-_hosts\
+
+# Start of entries inserted by Spybot - Search & Destroy
+# This list is Copyright 2000-2015 Safer-Networking Ltd.
+# IP6:
+# ::1	www.
+# End of entries inserted by Spybot - Search & Destroy - IP6
+

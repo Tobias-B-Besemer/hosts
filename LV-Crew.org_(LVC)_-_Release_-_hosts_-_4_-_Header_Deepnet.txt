@@ -1,0 +1,13 @@
+# LV-Crew.org_(LVC)_-_hosts_-_4_-_Header_Deepnet.txt
+# (C)reated by: LV-Crew.org (LVC)
+# From        : slim23
+# Version (At): v2016-08-15
+
+# Download-Folder-URL: http://preview.tinyurl.com/LVC-files -> \own_stuff\LV-Crew.org_(LVC)_-_hosts_files\LV-Crew.org_(LVC)_-_hosts\
+
+# We define here our own Clearnet w/ blocks.
+
+# Includes:
+#  - --PP--Crew_(-PP-)_-_CP.URLs.Downloads.txt
+#  - --PP--Crew_(-PP-)_-_CP.URLs.Domains.txt
+

@@ -1,0 +1,778 @@
+# --PP--Crew_(-PP-)_-_Release_-_hosts_-_CP.Domains.txt
+# (C)reated by: --PP--Crew (-PP-)
+# From        : x-qubic (x3)
+# Version (At): v2016-09-02
+
+# Download-Folder-URL: http://preview.tinyurl.com/PP-files -> \own_stuff\--PP--Crew_(-PP-)_-_Release_-_hosts\
+
+
+# Un-checked:
+# 127.0.0.1/block/CP.Domains.txt	NNForum.net # 							# Offline on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	www.NNForum.net # 						# Offline on: 2016-08-30
+# ::1/block/CP.Domains.txt		NNForum.net # 							# Offline on: 2016-08-30
+# ::1/block/CP.Domains.txt		www.NNForum.net # 						# Offline on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	TMF-Models.com # 						# Offline on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	www.TMF-Models.com # 						# Offline on: 2016-08-30
+# ::1/block/CP.Domains.txt		TMF-Models.com # 						# Offline on: 2016-08-30
+# ::1/block/CP.Domains.txt		www.TMF-Models.com # 						# Offline on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	Sweet-Barbie.com # 						# Offline on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	www.Sweet-Barbie.com # 						# Offline on: 2016-08-30
+# ::1/block/CP.Domains.txt		Sweet-Barbie.com # 						# Offline on: 2016-08-30
+# ::1/block/CP.Domains.txt		www.Sweet-Barbie.com # 						# Offline on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	Little-April.com # 						# Offline on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	www.Little-April.com # 						# Offline on: 2016-08-30
+# ::1/block/CP.Domains.txt		Little-April.com # 						# Offline on: 2016-08-30
+# ::1/block/CP.Domains.txt		www.Little-April.com # 						# Offline on: 2016-08-30
+
+# Un-sorted:
+127.0.0.1/block/CP.Domains.txt		Totona.com # 							# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.Totona.com # 						# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		Totona.com # 							# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.Totona.com # 						# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		Underage.ws # 							# Offline on: 2016-08-30
+127.0.0.1/block/CP.Domains.txt		www.Underage.ws # 						# Offline on: 2016-08-30
+::1/block/CP.Domains.txt		Underage.ws # 							# Offline on: 2016-08-30
+::1/block/CP.Domains.txt		www.Underage.ws # 						# Offline on: 2016-08-30
+
+
+# Illigal looking porn - Porn-Art:
+# 127.0.0.1/block/CP.Domains.txt	PremiumHentai.biz # (PHen)					# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.PremiumHentai.biz # (PHen)					# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		PremiumHentai.biz # (PHen)					# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.PremiumHentai.biz # (PHen)					# Online on: 2016-08-29
+
+
+# Illigal looking porn - Amateurish (Pro-Am/Semi-Profi-Pornos/Selfmade):
+# 127.0.0.1/block/CP.Domains.txt	Privatamateure.com # (PA) - Only: Unerfahrene_Maus		# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.Privatamateure.com # (PA) - Only: Unerfahrene_Maus		# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		Privatamateure.com # (PA) - Only: Unerfahrene_Maus		# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.Privatamateure.com # (PA) - Only: Unerfahrene_Maus		# Online on: 2016-08-29
+#  http://privatamateure.com/profile/Unerfahrene-Maus
+# 127.0.0.1/block/CP.Domains.txt	MyDirtyHobby.com # (MDH) - Only: Unerfahrene_Maus		# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.MyDirtyHobby.com # (MDH) - Only: Unerfahrene_Maus		# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		MyDirtyHobby.com # (MDH) - Only: Unerfahrene_Maus		# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.MyDirtyHobby.com # (MDH) - Only: Unerfahrene_Maus		# Online on: 2016-08-29
+#  http://www.mydirtyhobby.com/profil/5001001-Unerfahrene-Maus						# Online on: 2016-09-01
+
+
+# Illigal looking porn - Erotic- and Porno-Sites:
+# 127.0.0.1/block/CP.Domains.txt	18OnlyGirls.com # (18OG) - Looks almost normal			# Offline on: 2016-08-30 -> Now: AllFineGirls.com (AFG)
+# 127.0.0.1/block/CP.Domains.txt	www.18OnlyGirls.com # (18OG) - Looks almost normal		# Offline on: 2016-08-30 -> Now: AllFineGirls.com (AFG)
+# ::1/block/CP.Domains.txt		18OnlyGirls.com # (18OG) - Looks almost normal			# Offline on: 2016-08-30 -> Now: AllFineGirls.com (AFG)
+# ::1/block/CP.Domains.txt		www.18OnlyGirls.com # (18OG) - Looks almost normal		# Offline on: 2016-08-30 -> Now: AllFineGirls.com (AFG)
+# 127.0.0.1/block/CP.Domains.txt	18XGirls.com # (18XG)						# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.18XGirls.com # (18XG)					# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		18XGirls.com # (18XG)						# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.18XGirls.com # (18XG)					# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	AllFineGirls.com # (AFG) - Looks almost normal			# Online on: 2016-08-30 (Was: 18OnlyGirls.com (18OG))
+# 127.0.0.1/block/CP.Domains.txt	www.AllFineGirls.com # (AFG) - Looks almost normal		# Online on: 2016-08-30 (Was: 18OnlyGirls.com (18OG))
+# ::1/block/CP.Domains.txt		AllFineGirls.com # (AFG) - Looks almost normal			# Online on: 2016-08-30 (Was: 18OnlyGirls.com (18OG))
+# ::1/block/CP.Domains.txt		www.AllFineGirls.com # (AFG) - Looks almost normal		# Online on: 2016-08-30 (Was: 18OnlyGirls.com (18OG))
+# 127.0.0.1/block/CP.Domains.txt	BangMyTeenAss.com # (BMTA)					# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.BangMyTeenAss.com # (BMTA)					# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		BangMyTeenAss.com # (BMTA)					# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.BangMyTeenAss.com # (BMTA)					# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	Brazzers.com # (Braz) - Only some				# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.Brazzers.com # (Braz) - Only some				# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		Brazzers.com # (Braz) - Only some				# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.Brazzers.com # (Braz) - Only some				# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	FrostedFaces.com # (FF)						# Offline on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.FrostedFaces.com # (FF)					# Offline on: 2016-08-29
+# ::1/block/CP.Domains.txt		FrostedFaces.com # (FF)						# Offline on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.FrostedFaces.com # (FF)					# Offline on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	Gals-Club.com # (GalC)						# Offline on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.Gals-Club.com # (GalC)					# Offline on: 2016-08-29
+# ::1/block/CP.Domains.txt		Gals-Club.com # (GalC)						# Offline on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.Gals-Club.com # (GalC)					# Offline on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	Lolita-School.com # (LolS)					# Offline on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.Lolita-School.com # (LolS)					# Offline on: 2016-08-29
+# ::1/block/CP.Domains.txt		Lolita-School.com # (LolS)					# Offline on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.Lolita-School.com # (LolS)					# Offline on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	My18Teens.com # (M18T)						# Online on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	www.My18Teens.com # (M18T)					# Online on: 2016-08-30
+# ::1/block/CP.Domains.txt		My18Teens.com # (M18T)						# Online on: 2016-08-30
+# ::1/block/CP.Domains.txt		www.My18Teens.com # (M18T)					# Online on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	SinniStar.com # (SStar) - Only some				# Online on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	www.SinniStar.com # (SStar) - Only some				# Online on: 2016-08-30
+# ::1/block/CP.Domains.txt		SinniStar.com # (SStar) - Only some				# Online on: 2016-08-30
+# ::1/block/CP.Domains.txt		www.SinniStar.com # (SStar) - Only some				# Online on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	VideoTeenage.com # (VidT)					# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.VideoTeenage.com # (VidT)					# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		VideoTeenage.com # (VidT)					# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.VideoTeenage.com # (VidT)					# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	WowGirls.com # (WowG) - Looks almost normal			# Online on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	www.WowGirls.com # (WowG) - Looks almost normal			# Online on: 2016-08-30
+# ::1/block/CP.Domains.txt		WowGirls.com # (WowG) - Looks almost normal			# Online on: 2016-08-30
+# ::1/block/CP.Domains.txt		www.WowGirls.com # (WowG) - Looks almost normal			# Online on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	WowPorn.com # (WowP) - Looks almost normal			# Online on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	www.WowPorn.com # (WowP) - Looks almost normal			# Online on: 2016-08-30
+# ::1/block/CP.Domains.txt		WowPorn.com # (WowP) - Looks almost normal			# Online on: 2016-08-30
+# ::1/block/CP.Domains.txt		www.WowPorn.com # (WowP) - Looks almost normal			# Online on: 2016-08-30
+
+
+# Illigal looking porn - Erotic- and Porno-Sites - CruelMoney.com-Network - Main-Page:
+# 127.0.0.1/block/CP.Domains.txt	CruelMoney.com # (CM) - AWM Partnership Program			# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.CruelMoney.com # (CM) - AWM Partnership Program		# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		CruelMoney.com # (CM) - AWM Partnership Program			# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.CruelMoney.com # (CM) - AWM Partnership Program		# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	TeenMe.com # (TMe)						# Offline on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.TeenMe.com # (TMe)						# Offline on: 2016-09-01
+# ::1/block/CP.Domains.txt		TeenMe.com # (TMe)						# Offline on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.TeenMe.com # (TMe)						# Offline on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	Virginz.info # (Vir)						# Offline on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.Virginz.info # (Vir)					# Offline on: 2016-09-01
+# ::1/block/CP.Domains.txt		Virginz.info # (Vir)						# Offline on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.Virginz.info # (Vir)					# Offline on: 2016-09-01
+
+
+# Illigal looking porn - Erotic- and Porno-Sites - Network Discount:
+# 127.0.0.1/block/CP.Domains.txt	iDealGasm.com # iDealGasm Network Discount			# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.iDealGasm.com # iDealGasm Network Discount			# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		iDealGasm.com # iDealGasm Network Discount			# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.iDealGasm.com # iDealGasm Network Discount			# Online on: 2016-09-01
+
+
+# Illigal looking porn - Erotic- and Porno-Sites - PremiumGFS.com-Network - Main-Page:
+# 127.0.0.1/block/CP.Domains.txt	PremiumGFS.com # (PGFS) - Only some				# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.PremiumGFS.com # (PGFS) - Only some				# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		PremiumGFS.com # (PGFS) - Only some				# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.PremiumGFS.com # (PGFS) - Only some				# Online on: 2016-09-01
+
+# Illigal looking porn - Erotic- and Porno-Sites - PremiumGFS.com-Network - Models:
+# 127.0.0.1/block/CP.Domains.txt	AshleePink.com # (Ashlee_Pink) - Looks almost normal		# Offline on: 2016-09-01 (403 Forbidden)
+# 127.0.0.1/block/CP.Domains.txt	www.AshleePink.com # (Ashlee_Pink) - Looks almost normal	# Offline on: 2016-09-01 (403 Forbidden)
+# ::1/block/CP.Domains.txt		AshleePink.com # (Ashlee_Pink) - Looks almost normal		# Offline on: 2016-09-01 (403 Forbidden)
+# ::1/block/CP.Domains.txt		www.AshleePink.com # (Ashlee_Pink) - Looks almost normal	# Offline on: 2016-09-01 (403 Forbidden)
+#  Now: http://members.premiumgfs.com/members/ashleepink/ # Looks almost normal				# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	BritneyBlue.com # (Britney_Blue) - Looks almost normal		# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.BritneyBlue.com # (Britney_Blue) - Looks almost normal	# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		BritneyBlue.com # (Britney_Blue) - Looks almost normal		# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.BritneyBlue.com # (Britney_Blue) - Looks almost normal	# Online on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/britneyblue/ # Looks almost normal			# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	Carina18.com # (Carina_18)					# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.Carina18.com # (Carina_18)					# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		Carina18.com # (Carina_18)					# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.Carina18.com # (Carina_18)					# Online on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/carina18/ # Looks almost normal				# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	Chloe18.com # (Chloe_18) - Looks almost normal			# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.Chloe18.com # (Chloe_18) - Looks almost normal		# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		Chloe18.com # (Chloe_18) - Looks almost normal			# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.Chloe18.com # (Chloe_18) - Looks almost normal		# Online on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/chloe18/ # Looks almost normal				# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	CollegeKelly.com # (College_Kelly)				# Offline on: 2016-09-01 (Ads)
+# 127.0.0.1/block/CP.Domains.txt	www.CollegeKelly.com # (College_Kelly)				# Offline on: 2016-09-01 (Ads)
+# ::1/block/CP.Domains.txt		CollegeKelly.com # (College_Kelly)				# Offline on: 2016-09-01 (Ads)
+# ::1/block/CP.Domains.txt		www.CollegeKelly.com # (College_Kelly)				# Offline on: 2016-09-01 (Ads)
+#  Now: http://members.premiumgfs.com/members/collegekelly/						# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	CuteCarla.com # (Cute_Carla)					# Offline on: 2016-08-30 -> Goes to: PremiumGFS.com (PGFS)
+# 127.0.0.1/block/CP.Domains.txt	www.CuteCarla.com # (Cute_Carla)				# Offline on: 2016-08-30 -> Goes to: PremiumGFS.com (PGFS)
+# ::1/block/CP.Domains.txt		CuteCarla.com # (Cute_Carla)					# Offline on: 2016-08-30 -> Goes to: PremiumGFS.com (PGFS)
+# ::1/block/CP.Domains.txt		www.CuteCarla.com # (Cute_Carla)				# Offline on: 2016-08-30 -> Goes to: PremiumGFS.com (PGFS)
+#  Now: http://members.premiumgfs.com/members/cutecarla/ # Looks almost normal				# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	CuteCristina.com # (Cute_Cristina)				# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.CuteCristina.com # (Cute_Cristina)				# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		CuteCristina.com # (Cute_Cristina)				# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.CuteCristina.com # (Cute_Cristina)				# Online on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/cutecristina/						# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	CuteRain.com # (Cute_Rain)					# Offline on: 2016-09-01 -> Goes to: WebAir.com
+# 127.0.0.1/block/CP.Domains.txt	www.CuteRain.com # (Cute_Rain)					# Offline on: 2016-09-01 -> Goes to: WebAir.com
+# ::1/block/CP.Domains.txt		CuteRain.com # (Cute_Rain)					# Offline on: 2016-09-01 -> Goes to: WebAir.com
+# ::1/block/CP.Domains.txt		www.CuteRain.com # (Cute_Rain)					# Offline on: 2016-09-01 -> Goes to: WebAir.com
+#  Now: http://members.premiumgfs.com/members/cuterain/ # Looks almost normal				# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	CuteTabby.com # (Cute_Tabby)					# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.CuteTabby.com # (Cute_Tabby)				# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		CuteTabby.com # (Cute_Tabby)					# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.CuteTabby.com # (Cute_Tabby)				# Online on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/cutetabby/ # Looks almost normal				# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	Ellie18.com # (Ellie_18)					# Offline on: 2016-09-01 -> Goes to: PremiumGFS.com (PGFS)
+# 127.0.0.1/block/CP.Domains.txt	www.Ellie18.com # (Ellie_18)					# Offline on: 2016-09-01 -> Goes to: PremiumGFS.com (PGFS)
+# ::1/block/CP.Domains.txt		Ellie18.com # (Ellie_18)					# Offline on: 2016-09-01 -> Goes to: PremiumGFS.com (PGFS)
+# ::1/block/CP.Domains.txt		www.Ellie18.com # (Ellie_18)					# Offline on: 2016-09-01 -> Goes to: PremiumGFS.com (PGFS)
+#  Now: http://members.premiumgfs.com/members/ellie18/							# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	EmoEmily.com # (Emo_Emily)					# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.EmoEmily.com # (Emo_Emily)					# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		EmoEmily.com # (Emo_Emily)					# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.EmoEmily.com # (Emo_Emily)					# Online on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/emoemily/							# Online on: 2016-09-01
+
+# Illigal looking porn - Erotic- and Porno-Sites - PremiumGFS.com-Network - Models - un-finished-part:
+# 127.0.0.1/block/CP.Domains.txt	JAMIESPICE.COM # ()
+# 127.0.0.1/block/CP.Domains.txt	Kacey18.com # (Kacey_18)
+# 127.0.0.1/block/CP.Domains.txt	KAYDENKRUSH.COM # ()
+# 127.0.0.1/block/CP.Domains.txt	KittyKarsen # (Kitty_Karsen)					# Offline on: 2016-09-01 (Ads)
+#  Now: http://members.premiumgfs.com/members/kittykarsen/						# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	KRISTIMONTANA.COM # ()
+# 127.0.0.1/block/CP.Domains.txt	LEILABABE.COM # ()
+# 127.0.0.1/block/CP.Domains.txt	LesbianNina.com # (Lesbian_Nina)
+# 127.0.0.1/block/CP.Domains.txt	LEXYLOHAN.COM # ()
+# 127.0.0.1/block/CP.Domains.txt	LilEmma.com # (Lil_Emma)					# Online on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	LilKelly.com # (Lil_Kelly)
+# 127.0.0.1/block/CP.Domains.txt	LilKimmy.com # (Lil_Kimmy)					# Online on: 2016-08-31
+# 127.0.0.1/block/CP.Domains.txt	LilLaura.com # (Lil_Laura)					# Offline on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/lillaura/							# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	LilLexy # (Lil_Lexy)						# Offline on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/lillexy/							# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	LilMaya.com # (Lil_Maya)
+# 127.0.0.1/block/CP.Domains.txt	LilTammy.com # (Lil_Tammy)
+# 127.0.0.1/block/CP.Domains.txt	LittleApril.com # (Little_April)				# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	LittleBailey.com # (Little_Bailey)				# Online on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	LittleBree.com # (Little_Bree)
+# 127.0.0.1/block/CP.Domains.txt	LittleKelley # (Little_Kelley)					# Offline on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/lilkelly/							# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	LittleKimberly.com # (Little_Kimberly)
+# 127.0.0.1/block/CP.Domains.txt	LittleKylie.com # (Little_Kylie)				# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	LittleLaney.com # (Little_Laney)
+# 127.0.0.1/block/CP.Domains.txt	LittleLiana.com # (Little_Liana)				# Online on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	LittleLorie.com # (Little_Lorie)				# Online on: 2016-08-31
+# 127.0.0.1/block/CP.Domains.txt	LittleLupe.com # (Little_Lupe)					# Online on: 2016-08-31
+# 127.0.0.1/block/CP.Domains.txt	LittleSummer.com # (Little_Summer)
+# 127.0.0.1/block/CP.Domains.txt	LittleTammy.com # (Little_Tammy)				# Online on: 2016-08-31
+# 127.0.0.1/block/CP.Domains.txt	LittleTaylor.com # (Little_Taylor)				# Online on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	MANDYMAYHEM.COM # ()
+# 127.0.0.1/block/CP.Domains.txt	NAUGHTYDAISY.COM # ()
+# 127.0.0.1/block/CP.Domains.txt	Paulina18.com # (Paulina_18)
+# 127.0.0.1/block/CP.Domains.txt	Sammy18.com # (Sammy_18)
+# 127.0.0.1/block/CP.Domains.txt	SARAHKIMBLE.COM # ()
+# 127.0.0.1/block/CP.Domains.txt	Selina18.com # (Selina_18)
+# 127.0.0.1/block/CP.Domains.txt	SEPTEMBERSCOTT # ()
+# 127.0.0.1/block/CP.Domains.txt	Serena18.com # (Serena_18)
+# 127.0.0.1/block/CP.Domains.txt	SexyJaqui.com # (Sexy_Jaqui)
+# 127.0.0.1/block/CP.Domains.txt	TABATHASWEET.COM # ()
+# 127.0.0.1/block/CP.Domains.txt	TeenLesley.com # (Teen_Lesley)					# Online on: 2016-08-31
+# 127.0.0.1/block/CP.Domains.txt	TeenLilly.com # (Teen_Lilly)
+# 127.0.0.1/block/CP.Domains.txt	TeenTopanga.com # (Teen_Topanga)				# Online on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	TinyBecky.com # (Tiny_Becky)					# Online on: 2016-08-31
+# 127.0.0.1/block/CP.Domains.txt	TinyEmo.com # (Tiny_Emo)					# Online on: 2016-08-31
+# 127.0.0.1/block/CP.Domains.txt	TinyMiley.com # (Tiny_Miley)
+# 127.0.0.1/block/CP.Domains.txt	TinyRedSlut.com # (Tiny_Red_Slut)				# Offline on: 2016-09-01 -> Goes to: WebAir.com
+#  Now: http://members.premiumgfs.com/members/tinyredslut/						# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	TinyTabby.com # (Tiny_Tabby)
+# 127.0.0.1/block/CP.Domains.txt	TinyTessa.com # (Tiny_Tessa)
+# 127.0.0.1/block/CP.Domains.txt	TinyTrisha.com # (Tiny_Trisha)					# Online on: 2016-08-31
+# 127.0.0.1/block/CP.Domains.txt	TinyTyler.com # (Tiny_Tyler)
+# 127.0.0.1/block/CP.Domains.txt	TobieTeen.com # (Tobie_Teen)
+# 127.0.0.1/block/CP.Domains.txt	TrixieTeen.com # (Trixie_Teen)
+# 127.0.0.1/block/CP.Domains.txt	YoungCarrie.com # (Young_Carrie)				# Offline on: 2016-08-30 -> Goes to: PremiumGFS.com (PGFS)
+# 127.0.0.1/block/CP.Domains.txt	YoungJess.com # (Young_Jess)
+# 127.0.0.1/block/CP.Domains.txt	YoungKimmy.com # (Young_Kimmy)
+# 127.0.0.1/block/CP.Domains.txt	YoungYasmin.com # (Young_Yasmin)
+
+# Illigal looking porn - Erotic- and Porno-Sites - PremiumGFS.com-Network - Productions:
+# 127.0.0.1/block/CP.Domains.txt	AnalLickingGFs.com # (ALGF) - Looks almost normal		# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.AnalLickingGFs.com # (ALGF) - Looks almost normal		# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		AnalLickingGFs.com # (ALGF) - Looks almost normal		# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.AnalLickingGFs.com # (ALGF) - Looks almost normal		# Online on: 2016-09-01
+#  Now: members.premiumgfs.com/members/anallickinggfs/							# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	CheatingGFExposed.com # (CGFE)					# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.CheatingGFExposed.com # (CGFE)				# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		CheatingGFExposed.com # (CGFE)					# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.CheatingGFExposed.com # (CGFE)				# Online on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/cheatinggfexposed/					# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	CockRockingTeens.com # (CCT)					# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.CockRockingTeens.com # (CCT)				# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		CockRockingTeens.com # (CCT)					# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.CockRockingTeens.com # (CCT)				# Online on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/cockrockingteens/ # Looks almost normal			# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	ExposedRussianGFs.com # (ERGF)					# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.ExposedRussianGFs.com # (ERGF)				# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		ExposedRussianGFs.com # (ERGF)					# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.ExposedRussianGFs.com # (ERGF)				# Online on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/exposedrussiangfs/					# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	SmallInPorn.com/ # (SIP)					# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.SmallInPorn.com/ # (SIP)					# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		SmallInPorn.com/ # (SIP)					# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.SmallInPorn.com/ # (SIP)					# Online on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/smallinporn/						# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	TinyTeenAnal.com # (TTA) - Looks almost normal			# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.TinyTeenAnal.com # (TTA) - Looks almost normal		# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		TinyTeenAnal.com # (TTA) - Looks almost normal			# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.TinyTeenAnal.com # (TTA) - Looks almost normal		# Online on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/tinyteenanal/						# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	YoungTeenieBlacks.com # (YTB) - Looks almost normal		# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.YoungTeenieBlacks.com # (YTB) - Looks almost normal		# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		YoungTeenieBlacks.com # (YTB) - Looks almost normal		# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.YoungTeenieBlacks.com # (YTB) - Looks almost normal		# Online on: 2016-09-01
+#  Now: http://members.premiumgfs.com/members/youngteenieblacks/ # Looks almost normal			# Online on: 2016-09-01
+
+# Illigal looking porn - Erotic- and Porno-Sites - PremiumGFS.com-Network - Productions - To-check:
+# 127.0.0.1/block/CP.Domains.txt	ABUSEDGF.COM # (AGF)
+# 127.0.0.1/block/CP.Domains.txt	FUCKYOUPAUL.COM # (FYP)
+# 127.0.0.1/block/CP.Domains.txt	IBUYGFS.COM # (IBGF)
+# 127.0.0.1/block/CP.Domains.txt	INSTAGIRLFRIENDS.COM # (IGF)
+# 127.0.0.1/block/CP.Domains.txt	KITTIESPLAYGROUND.COM # (KPG)
+# 127.0.0.1/block/CP.Domains.txt	PREPARTYNIGHTS.COM # (PPN)
+# 127.0.0.1/block/CP.Domains.txt	SCANDALOUSGFS.COM # (SGF)
+# 127.0.0.1/block/CP.Domains.txt	SELFSHOT18.COM # (SS18)
+# 127.0.0.1/block/CP.Domains.txt	SEXTAPEFINDER.COM # (STF)
+# 127.0.0.1/block/CP.Domains.txt	VIRGINGFS.COM # (VGF)
+
+# Illigal looking porn - Erotic- and Porno-Sites - PremiumGFS.com-Network - Productions - Un-checked:
+# ExposedCamGFs.com # (ECGF)
+# ExposedLatinGFs.com # (ELGF)
+# EXTREMEGFPASS # (EGFP)
+# FUCKEDUPGFS.COM # (FuUGF)
+# FUCKMELIKEAMONSTER.COM # (FMLAM)
+# GRAMPSONTEENS.COM # (GTs)
+# HANDJOBSANDBLOWJOBS.COM # (HJABJ)
+# HARDCOREJAPANESEGFS.COM # (HcJGF)
+# HAWTTVGIRLS # (HTVG)
+# HDTEENIES.COM # (HDTs)
+# LMAOGFS.COM # (LMAOGF)
+# MYTEENMAID.COM # (MTM)
+# NotReallyLove.com # (NRL)
+# PORNERBROSVIP.COM # (PBVIP)
+# WhiteGirlsExposed.com # (WFE)
+
+# Illigal looking porn - Erotic- and Porno-Sites - PremiumGFS.com-Network - Live/Cam - Un-checked:
+# Hotlivemilfs.com # HOT LIVE MILFS
+# Harlemcamgirls.com # HARLEM CAM GIRLS
+# MYFREECAMS.COM # MY FREE CAMS
+
+
+# Illigal looking porn - Erotic- and Porno-Sites - PornstarNetwork - Main-Pages:
+# http://pornstarnetwork.premiumarchive.com/home.html							# Online on: 2016-09-01
+# http://pornstarnetwork.premiumarchive.com/site/most-popular						# Online on: 2016-09-01
+# http://www.premiumarchive.com/home.html								# Online on: 2016-09-01
+# http://www.premiumarchive.com/sitemap.html								# Online on: 2016-09-01
+
+# Illigal looking porn - Erotic- and Porno-Sites - PornstarNetwork - Models:
+# 127.0.0.1/block/CP.Domains.txt	ChristineYoung.com # (Christine_Young)				# Online on: 2016-08-30
+# 127.0.0.1/block/CP.Domains.txt	www.ChristineYoung.com # (Christine_Young)			# Online on: 2016-08-30
+# ::1/block/CP.Domains.txt		ChristineYoung.com # (Christine_Young)				# Online on: 2016-08-30
+# ::1/block/CP.Domains.txt		www.ChristineYoung.com # (Christine_Young)			# Online on: 2016-08-30
+
+# Illigal looking porn - Erotic- and Porno-Sites - PornstarNetwork - Un-checked:
+# http://pornstarnetwork.premiumarchive.com/site/annie-berry-37.html
+# ...
+
+
+# Illigal looking porn - Erotic- and Porno-Sites - EverestCash.com-Network - Main-Page:
+# 127.0.0.1/block/CP.Domains.txt	EverestCash.com # 						# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.EverestCash.com # 						# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		EverestCash.com # 						# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.EverestCash.com # 						# Online on: 2016-09-01
+# Infos: http://everestcash.com/sites.php
+
+# Illigal looking porn - Erotic- and Porno-Sites - EverestCash.com-Network - Models:
+# 127.0.0.1/block/CP.Domains.txt	Emily18.com # (Emily_18)					# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.Emily18.com # (Emily_18)					# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		Emily18.com # (Emily_18)					# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.Emily18.com # (Emily_18)					# Online on: 2016-08-29
+
+# Illigal looking porn - Erotic- and Porno-Sites - EverestCash.com-Network - Un-checked:
+http://www.abigail18.com/
+http://www.debbieteen.com/
+http://www.kimmyteen.com/
+http://www.littledanni.com/
+http://www.lovelyanne.com/
+http://www.lovelyirene.com/
+http://www.lovelytera.com/
+# ...
+
+
+# Illigal looking porn - Erotic- and Porno-Sites - Royal-Cash.com-Network - Main-Page:
+# 127.0.0.1/block/CP.Domains.txt	Royal-Cash.com # 						# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.Royal-Cash.com # 						# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		Royal-Cash.com # 						# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.Royal-Cash.com # 						# Online on: 2016-09-01
+# Infos: http://www.royal-cash.com/?content=products
+
+# Illigal looking porn - Erotic- and Porno-Sites - Royal-Cash.com-Network - Models:
+# 127.0.0.1/block/CP.Domains.txt	LollyHardcore.com # (Lolly)					# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.LollyHardcore.com # (Lolly)					# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		LollyHardcore.com # (Lolly)					# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.LollyHardcore.com # (Lolly)					# Online on: 2016-08-29
+
+# Illigal looking porn - Erotic- and Porno-Sites - Royal-Cash.com-Network - Un-checked:
+# http://teengina.com/
+# ...
+
+
+# Illigal looking porn - Erotic- and Porno-Sites - BrothersInCash.com-Network - Main-Page:
+# http://brothersincash.com/ # 										# Online on: 2016-09-01
+# http://new.brothersincash.com/external.php?page=sites							# Online on: 2016-09-01
+
+# Illigal looking porn - Erotic- and Porno-Sites - BrothersInCash.com-Network - Models:
+# 127.0.0.1/block/CP.Domains.txt	LittleHellCat.com # (Paola_Denise)				# Online on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.LittleHellCat.com # (Paola_Denise)				# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		LittleHellCat.com # (Paola_Denise)				# Online on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.LittleHellCat.com # (Paola_Denise)				# Online on: 2016-08-29
+
+# Illigal looking porn - Erotic- and Porno-Sites - BrothersInCash.com-Network - Un-checked:
+# ...
+
+
+# Illigal looking porn - Erotic- and Porno-Sites - ViceCrew.com-Network - Main-Page:
+# 127.0.0.1/block/CP.Domains.txt	ViceCrew.com # 							# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.ViceCrew.com # 						# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		ViceCrew.com # 							# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.ViceCrew.com # 						# Online on: 2016-09-01
+
+# Illigal looking porn - Erotic- and Porno-Sites - ViceCrew.com-Network - Productions:
+# 127.0.0.1/block/CP.Domains.txt	BlackTeenieRevenge.com # (BTR)					# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.BlackTeenieRevenge.com # (BTR)				# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		BlackTeenieRevenge.com # (BTR)					# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.BlackTeenieRevenge.com # (BTR)				# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	RealEmoRevenge.com # (RER)					# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.RealEmoRevenge.com # (RER)					# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		RealEmoRevenge.com # (RER)					# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.RealEmoRevenge.com # (RealER)				# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	TwilightGFs.com # (TGF) - Looks almost normal			# Online on: 2016-09-01
+# 127.0.0.1/block/CP.Domains.txt	www.TwilightGFs.com # (TGF) - Looks almost normal		# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		TwilightGFs.com # (TGF) - Looks almost normal			# Online on: 2016-09-01
+# ::1/block/CP.Domains.txt		www.TwilightGFs.com # (TGF) - Looks almost normal		# Online on: 2016-09-01
+# ...
+
+
+# Illigal looking porn - Erotic- and Porno-Sites - LongBucks.com-Network - Main-Page:
+# http://www.longbucks.com/
+
+# Illigal looking porn - Erotic- and Porno-Sites - LongBucks.com-Network - Un-checked:
+# ...
+
+
+# Illigal looking porn - Stars (Porn Stars) (by name) (Celebrity/Celebrities):
+# 127.0.0.1/block/CP.Domains.txt	IvanaFukalot.com # (Ivana_Fukalot)				# Offline on: 2016-08-30 -> Goes to: AllFineGirls.com (AFG)
+# 127.0.0.1/block/CP.Domains.txt	www.IvanaFukalot.com # (Ivana_Fukalot)				# Offline on: 2016-08-30 -> Goes to: AllFineGirls.com (AFG)
+# ::1/block/CP.Domains.txt		IvanaFukalot.com # (Ivana_Fukalot)				# Offline on: 2016-08-30 -> Goes to: AllFineGirls.com (AFG)
+# ::1/block/CP.Domains.txt		www.IvanaFukalot.com # (Ivana_Fukalot)				# Offline on: 2016-08-30 -> Goes to: AllFineGirls.com (AFG)
+# 127.0.0.1/block/CP.Domains.txt	LanaLeesWorld.com # (Lana_Lee)					# Offline on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	www.LanaLeesWorld.com # (Lana_Lee)				# Offline on: 2016-08-29
+# ::1/block/CP.Domains.txt		LanaLeesWorld.com # (Lana_Lee)					# Offline on: 2016-08-29
+# ::1/block/CP.Domains.txt		www.LanaLeesWorld.com # (Lana_Lee)				# Offline on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	MashaWorld.com # (Masha)					# Offline on: 2016-08-29 -> Goes to: WowGirls.com (WowG)
+# 127.0.0.1/block/CP.Domains.txt	www.MashaWorld.com # (Masha)					# Offline on: 2016-08-29 -> Goes to: WowGirls.com (WowG)
+# ::1/block/CP.Domains.txt		MashaWorld.com # (Masha)					# Offline on: 2016-08-29 -> Goes to: WowGirls.com (WowG)
+# ::1/block/CP.Domains.txt		www.MashaWorld.com # (Masha)					# Offline on: 2016-08-29 -> Goes to: WowGirls.com (WowG)
+
+
+# Maybe - Erotic- and Porno-Sites:
+127.0.0.1/block/CP.Domains.txt		AmateurGalore.net # (AmaG)					# Online on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.AmateurGalore.net # (AmaG)					# Online on: 2016-08-29
+::1/block/CP.Domains.txt		AmateurGalore.net # (AmaG)					# Online on: 2016-08-29
+::1/block/CP.Domains.txt		www.AmateurGalore.net # (AmaG)					# Online on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		Best-Teens.com # (BTs)						# Online on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.Best-Teens.com # (BTs)					# Online on: 2016-08-29
+::1/block/CP.Domains.txt		Best-Teens.com # (BTs)						# Online on: 2016-08-29
+::1/block/CP.Domains.txt		www.Best-Teens.com # (BTs)					# Online on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		DreamerTeens.com # (DTs)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.DreamerTeens.com # (DTs)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		DreamerTeens.com # (DTs)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.DreamerTeens.com # (DTs)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		Fantasia-Models.com # (FMod)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.Fantasia-Models.com # (FMod)				# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		Fantasia-Models.com # (FMod)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.Fantasia-Models.com # (FMod)				# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		Good-Models.com # (GMod)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.Good-Models.com # (GMod)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		Good-Models.com # (GMod)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.Good-Models.com # (GMod)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		LolitaInternational.com # (LilI)				# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.LolitaInternational.com # (LilI)				# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		LolitaInternational.com # (LilI)				# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.LolitaInternational.com # (LilI)				# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		LolitaSex.com # (LolS)						# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.LolitaSex.com # (LolS)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		LolitaSex.com # (LolS)						# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.LolitaSex.com # (LolS)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		MyLola.info # (MLol)						# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.MyLola.info # (MLol)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		MyLola.info # (MLol)						# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.MyLola.info # (MLol)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		NordVideo.com # (NVid)						# Online on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.NordVideo.com # (NVid)					# Online on: 2016-08-29
+::1/block/CP.Domains.txt		NordVideo.com # (NVid)						# Online on: 2016-08-29
+::1/block/CP.Domains.txt		www.NordVideo.com # (NVid)					# Online on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		School-Models.com # (SMod)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.School-Models.com # (SMod)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		School-Models.com # (SMod)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.School-Models.com # (SMod)					# Offline on: 2016-08-29
+# 127.0.0.1/block/CP.Domains.txt	TeenNetwork. # (TNet)						# URL not known
+# 127.0.0.1/block/CP.Domains.txt	www.TeenNetwork. # (TNet)					# URL not known
+# ::1/block/CP.Domains.txt		TeenNetwork. # (TNet)						# URL not known
+# ::1/block/CP.Domains.txt		www.TeenNetwork. # (TNet)					# URL not known
+127.0.0.1/block/CP.Domains.txt		VirginAngels.info # (VirA)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.VirginAngels.info # (VirA)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		VirginAngels.info # (VirA)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.VirginAngels.info # (VirA)					# Offline on: 2016-08-29
+
+# Maybe - Blogs:
+127.0.0.1/block/CP.Domains.txt		LolitaNetwork.com # (LolN)					# Offline on: 2016-09-01
+127.0.0.1/block/CP.Domains.txt		www.LolitaNetwork.com # (LolN)					# Offline on: 2016-09-01
+::1/block/CP.Domains.txt		LolitaNetwork.com # (LolN)					# Offline on: 2016-09-01
+::1/block/CP.Domains.txt		www.LolitaNetwork.com # (LolN)					# Offline on: 2016-09-01
+
+
+# LS-Studio-Network - Info:
+# Read     : https://en.wikipedia.org/wiki/LS_Studio
+# More Read: https://en.wikipedia.org/w/index.php?title=LS_Studio&oldid=407503396
+# More Read: https://en.wikipedia.org/wiki/Talk%3ALS_Studio
+
+# LS-Studio-Network - Productions:
+127.0.0.1/block/CP.Domains.txt		LS-Magazine.com # (LSM)						# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.LS-Magazine.com # (LSM)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		LS-Magazine.com # (LSM)						# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.LS-Magazine.com # (LSM)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		LS-Models.com # (LSH/LSN/LSR)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.LS-Models.com # (LSH/LSN/LSR)				# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		LS-Models.com # (LSH/LSN/LSR)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.LS-Models.com # (LSH/LSN/LSR)				# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		LS-Island.com # (LSI/isl/isa/ism)				# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.LS-Island.com # (LSI/isl/isa/ism)				# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		LS-Island.com # (LSI/isl/isa/ism)				# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.LS-Island.com # (LSI/isl/isa/ism)				# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		Video-Angels.com # (VidA)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.Video-Angels.com # (VidA)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		Video-Angels.com # (VidA)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.Video-Angels.com # (VidA)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		Video-2000.com # (V2000)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.Video-2000.com # (V2000)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		Video-2000.com # (V2000)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.Video-2000.com # (V2000)					# Offline on: 2016-08-29
+
+# LS-Studio-Network - Addendum:
+127.0.0.1/block/CP.Domains.txt		Sweet-Dolls.com # (SweD)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.Sweet-Dolls.com # (SweD)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		Sweet-Dolls.com # (SweD)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.Sweet-Dolls.com # (SweD)					# Offline on: 2016-08-29
+
+
+# DreamStudioPortal.com-Network - Main-Pages:
+127.0.0.1/block/CP.Domains.txt		DreamStudioPortal.com # (DSP)					# Online on: 2016-08-30 - Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.DreamStudioPortal.com # (DSP)				# Online on: 2016-08-30 - Offline on: 2016-08-29
+::1/block/CP.Domains.txt		DreamStudioPortal.com # (DSP)					# Online on: 2016-08-30 - Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.DreamStudioPortal.com # (DSP)				# Online on: 2016-08-30 - Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		World-Collections.com # (WldC)					# Offline on: 2016-08-30
+127.0.0.1/block/CP.Domains.txt		www.World-Collections.com # (WldC)				# Offline on: 2016-08-30
+::1/block/CP.Domains.txt		World-Collections.com # (WldC)					# Offline on: 2016-08-30
+::1/block/CP.Domains.txt		www.World-Collections.com # (WldC)				# Offline on: 2016-08-30
+
+# DreamStudioPortal.com-Network - Models:
+127.0.0.1/block/CP.Domains.txt		Alisa-Dreams.com # (Alisa_Dreams)				# Online on: 2016-08-30
+127.0.0.1/block/CP.Domains.txt		www.Alisa-Dreams.com # (Alisa_Dreams)				# Online on: 2016-08-30
+::1/block/CP.Domains.txt		Alisa-Dreams.com # (Alisa_Dreams)				# Online on: 2016-08-30
+::1/block/CP.Domains.txt		www.Alisa-Dreams.com # (Alisa_Dreams)				# Online on: 2016-08-30
+127.0.0.1/block/CP.Domains.txt		Nastia-Kitten.info # (Nastia_Kitten)				# Online on: 2016-08-30
+127.0.0.1/block/CP.Domains.txt		www.Nastia-Kitten.info # (Nastia_Kitten)			# Online on: 2016-08-30
+::1/block/CP.Domains.txt		Nastia-Kitten.info # (Nastia_Kitten)				# Online on: 2016-08-30
+::1/block/CP.Domains.txt		www.Nastia-Kitten.info # (Nastia_Kitten)			# Online on: 2016-08-30
+127.0.0.1/block/CP.Domains.txt		Little-Panther.info # (Little_Panther)				# Online on: 2016-08-30
+127.0.0.1/block/CP.Domains.txt		www.Little-Panther.info # (Little_Panther)			# Online on: 2016-08-30
+::1/block/CP.Domains.txt		Little-Panther.info # (Little_Panther)				# Online on: 2016-08-30
+::1/block/CP.Domains.txt		www.Little-Panther.info # (Little_Panther)			# Online on: 2016-08-30
+127.0.0.1/block/CP.Domains.txt		Nikita-Dance.com # (Nikita_Dance)				# Offline on: 2016-08-30
+127.0.0.1/block/CP.Domains.txt		www.Nikita-Dance.com # (Nikita_Dance)				# Offline on: 2016-08-30
+::1/block/CP.Domains.txt		Nikita-Dance.com # (Nikita_Dance)				# Offline on: 2016-08-30
+::1/block/CP.Domains.txt		www.Nikita-Dance.com # (Nikita_Dance)				# Offline on: 2016-08-30
+127.0.0.1/block/CP.Domains.txt		Fashion-Baby.info # (Fashion_Baby)				# Online on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.Fashion-Baby.info # (Fashion_Baby)				# Online on: 2016-08-29
+::1/block/CP.Domains.txt		Fashion-Baby.info # (Fashion_Baby)				# Online on: 2016-08-29
+::1/block/CP.Domains.txt		www.Fashion-Baby.info # (Fashion_Baby)				# Online on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		Play-Kitty.com # (Play_Kitty)					# Online on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.Play-Kitty.com # (Play_Kitty)				# Online on: 2016-08-29
+::1/block/CP.Domains.txt		Play-Kitty.com # (Play_Kitty)					# Online on: 2016-08-29
+::1/block/CP.Domains.txt		www.Play-Kitty.com # (Play_Kitty)				# Online on: 2016-08-29
+
+
+# Teen (Lolita) - "Category: 2" - Models:
+127.0.0.1/block/CP.Domains.txt		Latin-Angel.com # (Latin_Angel)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.Latin-Angel.com # (Latin_Angel)				# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		Latin-Angel.com # (Latin_Angel)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.Latin-Angel.com # (Latin_Angel)				# Offline on: 2016-08-29
+
+# Teen (Lolita) - "Category: 2" - Blogs:
+127.0.0.1/block/CP.Domains.txt		LolitaBay.com # (LolB)						# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.LolitaBay.com # (LolB)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		LolitaBay.com # (LolB)						# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.LolitaBay.com # (LolB)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		VladModels.pw # (VMod)						# Online on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.VladModels.pw # (VMod)					# Online on: 2016-08-29
+::1/block/CP.Domains.txt		VladModels.pw # (VMod)						# Online on: 2016-08-29
+::1/block/CP.Domains.txt		www.VladModels.pw # (VMod)					# Online on: 2016-08-29
+
+# Teen (Lolita) - "Category: 1":
+# None yet
+
+
+# Newstar-Video.com-Network - Main-Pages:
+127.0.0.1/block/CP.Domains.txt		Newstar-Video.com # (NsV)					# Under massive DDoS-Attack on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.Newstar-Video.com # (NsV)					# Under massive DDoS-Attack on: 2016-08-31
+::1/block/CP.Domains.txt		Newstar-Video.com # (NsV)					# Under massive DDoS-Attack on: 2016-08-31
+::1/block/CP.Domains.txt		www.Newstar-Video.com # (NsV)					# Under massive DDoS-Attack on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		NT-Model.com # (NTM)						# Under massive DDoS-Attack on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.NT-Model.com # (NTM)					# Under massive DDoS-Attack on: 2016-08-31
+::1/block/CP.Domains.txt		NT-Model.com # (NTM)						# Under massive DDoS-Attack on: 2016-08-31
+::1/block/CP.Domains.txt		www.NT-Model.com # (NTM)					# Under massive DDoS-Attack on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		Tiny-ModelNews.com # (TMN)					# Under massive DDoS-Attack on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.Tiny-ModelNews.com # (TMN)					# Under massive DDoS-Attack on: 2016-08-31
+::1/block/CP.Domains.txt		Tiny-ModelNews.com # (TMN)					# Under massive DDoS-Attack on: 2016-08-31
+::1/block/CP.Domains.txt		www.Tiny-ModelNews.com # (TMN)					# Under massive DDoS-Attack on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		Sweet-Beauties.com # (SweB)					# Under massive DDoS-Attack on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.Sweet-Beauties.com # (SweB)					# Under massive DDoS-Attack on: 2016-08-31
+::1/block/CP.Domains.txt		Sweet-Beauties.com # (SweB)					# Under massive DDoS-Attack on: 2016-08-31
+::1/block/CP.Domains.txt		www.Sweet-Beauties.com # (SweB)					# Under massive DDoS-Attack on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		EternalAphrodites.com # (EA)					# Under massive DDoS-Attack on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.EternalAphrodites.com # (EA)				# Under massive DDoS-Attack on: 2016-08-31
+::1/block/CP.Domains.txt		EternalAphrodites.com # (EA)					# Under massive DDoS-Attack on: 2016-08-31
+::1/block/CP.Domains.txt		www.EternalAphrodites.com # (EA)				# Under massive DDoS-Attack on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		ClipMonster.net # (CM)						# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.ClipMonster.net # (CM)					# Online on: 2016-08-31
+::1/block/CP.Domains.txt		ClipMonster.net # (CM)						# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.ClipMonster.net # (CM)					# Online on: 2016-08-31
+
+# Newstar-Video.com-Network - Productions:
+127.0.0.1/block/CP.Domains.txt		Party-Models2.com # (PMod2)					# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.Party-Models2.com # (PMod2)					# Online on: 2016-08-31
+::1/block/CP.Domains.txt		Party-Models2.com # (PMod2)					# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.Party-Models2.com # (PMod2)					# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		PartyModels.net # (PMod)					# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.PartyModels.net # (PMod)					# Online on: 2016-08-31
+::1/block/CP.Domains.txt		PartyModels.net # (PMod)					# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.PartyModels.net # (PMod)					# Online on: 2016-08-31
+
+# Newstar-Video.com-Network - Models:
+127.0.0.1/block/CP.Domains.txt		Newstar-Bambi.info # (Newstar_Bambi)				# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.Newstar-Bambi.info # (Newstar_Bambi)			# Online on: 2016-08-31
+::1/block/CP.Domains.txt		Newstar-Bambi.info # (Newstar_Bambi)				# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.Newstar-Bambi.info # (Newstar_Bambi)			# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		Newstar-Krissy.net # (Newstar_Krissy)				# Online on: 2016-08-31 - Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.Newstar-Krissy.net # (Newstar_Krissy)			# Online on: 2016-08-31 - Offline on: 2016-08-29
+::1/block/CP.Domains.txt		Newstar-Krissy.net # (Newstar_Krissy)				# Online on: 2016-08-31 - Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.Newstar-Krissy.net # (Newstar_Krissy)			# Online on: 2016-08-31 - Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		Newstar-Victoria.net # (Newstar_Victoria)			# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.Newstar-Victoria.net # (Newstar_Victoria)			# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		Newstar-Victoria.net # (Newstar_Victoria)			# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.Newstar-Victoria.net # (Newstar_Victoria)			# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		NewstarCutie.com # (Newstar_Cutie)				# Online on: 2016-09-01
+127.0.0.1/block/CP.Domains.txt		www.NewstarCutie.com # (Newstar_Cutie)				# Online on: 2016-09-01
+::1/block/CP.Domains.txt		NewstarCutie.com # (Newstar_Cutie)				# Online on: 2016-09-01
+::1/block/CP.Domains.txt		www.NewstarCutie.com # (Newstar_Cutie)				# Online on: 2016-09-01
+127.0.0.1/block/CP.Domains.txt		NS-Alexandra.com # (Newstar_Alexandra)				# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.NS-Alexandra.com # (Newstar_Alexandra)			# Online on: 2016-08-31
+::1/block/CP.Domains.txt		NS-Alexandra.com # (Newstar_Alexandra)				# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.NS-Alexandra.com # (Newstar_Alexandra)			# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		NS-Bambi.com # (Newstar_Bambi)					# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.NS-Bambi.com # (Newstar_Bambi)				# Online on: 2016-08-31
+::1/block/CP.Domains.txt		NS-Bambi.com # (Newstar_Bambi)					# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.NS-Bambi.com # (Newstar_Bambi)				# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		NS-Daniele.com  # (Newstar_Daniele)				# Under massive DDoS-Attack on: 2016-09-01 (nginx error/Google 404)
+127.0.0.1/block/CP.Domains.txt		www.NS-Daniele.com  # (Newstar_Daniele)				# Under massive DDoS-Attack on: 2016-09-01 (nginx error/Google 404)
+::1/block/CP.Domains.txt		NS-Daniele.com  # (Newstar_Daniele)				# Under massive DDoS-Attack on: 2016-09-01 (nginx error/Google 404)
+::1/block/CP.Domains.txt		www.NS-Daniele.com  # (Newstar_Daniele)				# Under massive DDoS-Attack on: 2016-09-01 (nginx error/Google 404)
+127.0.0.1/block/CP.Domains.txt		NS-Erin.com # (Newstar_Erin)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.NS-Erin.com # (Newstar_Erin)				# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		NS-Erin.com # (Newstar_Erin)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.NS-Erin.com # (Newstar_Erin)				# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		NS-Jenna.com # (Newstar_Jenna)					# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.NS-Jenna.com # (Newstar_Jenna)				# Online on: 2016-08-31
+::1/block/CP.Domains.txt		NS-Jenna.com # (Newstar_Jenna)					# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.NS-Jenna.com # (Newstar_Jenna)				# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		NS-Lola.com # (Newstar_Lola)					# Online on: 2016-09-01
+127.0.0.1/block/CP.Domains.txt		www.NS-Lola.com # (Newstar_Lola)				# Online on: 2016-09-01
+::1/block/CP.Domains.txt		NS-Lola.com # (Newstar_Lola)					# Online on: 2016-09-01
+::1/block/CP.Domains.txt		www.NS-Lola.com # (Newstar_Lola)				# Online on: 2016-09-01
+127.0.0.1/block/CP.Domains.txt		NS-Paris.com # (Newstar_Paris)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.NS-Paris.com # (Newstar_Paris)				# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		NS-Paris.com # (Newstar_Paris)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.NS-Paris.com # (Newstar_Paris)				# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		Sweet-Abby.com # (Sweet_Abby)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.Sweet-Abby.com # (Sweet_Abby)				# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		Sweet-Abby.com # (Sweet_Abby)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.Sweet-Abby.com # (Sweet_Abby)				# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		Sweet-Amy.com # (Sweet_Amy)					# Offline on: 2016-09-01 (Google 404)
+127.0.0.1/block/CP.Domains.txt		www.Sweet-Amy.com # (Sweet_Amy)					# Offline on: 2016-09-01 (Google 404)
+::1/block/CP.Domains.txt		Sweet-Amy.com # (Sweet_Amy)					# Offline on: 2016-09-01 (Google 404)
+::1/block/CP.Domains.txt		www.Sweet-Amy.com # (Sweet_Amy)					# Offline on: 2016-09-01 (Google 404)
+127.0.0.1/block/CP.Domains.txt		SweetCatalina.net  # (Sweet_Catalina)				# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.SweetCatalina.net  # (Sweet_Catalina)			# Online on: 2016-08-31
+::1/block/CP.Domains.txt		SweetCatalina.net  # (Sweet_Catalina)				# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.SweetCatalina.net  # (Sweet_Catalina)			# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		SweetLexie.com # (Sweet_Lexie)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.SweetLexie.com # (Sweet_Lexie)				# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		SweetLexie.com # (Sweet_Lexie)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.SweetLexie.com # (Sweet_Lexie)				# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		SweetMeagan.com # (Sweet_Meagan)				# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.SweetMeagan.com # (Sweet_Meagan)				# Online on: 2016-08-31
+::1/block/CP.Domains.txt		SweetMeagan.com # (Sweet_Meagan)				# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.SweetMeagan.com # (Sweet_Meagan)				# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		TinyModelCinnamon.com # (Tiny_Model_Cinnamon)			# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.TinyModelCinnamon.com # (Tiny_Model_Cinnamon)		# Online on: 2016-08-31
+::1/block/CP.Domains.txt		TinyModelCinnamon.com # (Tiny_Model_Cinnamon)			# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.TinyModelCinnamon.com # (Tiny_Model_Cinnamon)		# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		TinyModelNicole.net # (Tiny_Model_Nicole)			# Online on: 2016-09-01 - Offline on: 2016-08-29 (Apache Test Page)
+127.0.0.1/block/CP.Domains.txt		www.TinyModelNicole.net # (Tiny_Model_Nicole)			# Online on: 2016-09-01 - Offline on: 2016-08-29 (Apache Test Page)
+::1/block/CP.Domains.txt		TinyModelNicole.net # (Tiny_Model_Nicole)			# Online on: 2016-09-01 - Offline on: 2016-08-29 (Apache Test Page)
+::1/block/CP.Domains.txt		www.TinyModelNicole.net # (Tiny_Model_Nicole)			# Online on: 2016-09-01 - Offline on: 2016-08-29 (Apache Test Page)
+127.0.0.1/block/CP.Domains.txt		TinyModelRaven.com # (Tiny_Model_Raven)				# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.TinyModelRaven.com # (Tiny_Model_Raven)			# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		TinyModelRaven.com # (Tiny_Model_Raven)				# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.TinyModelRaven.com # (Tiny_Model_Raven)			# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		TM-Ginger.com # (Tiny_Model_Ginger)				# Online on: 2016-09-01 - Under massive DDoS-Attack on: 2016-08-31 (nginx error)
+127.0.0.1/block/CP.Domains.txt		www.TM-Ginger.com # (Tiny_Model_Ginger)				# Online on: 2016-09-01 - Under massive DDoS-Attack on: 2016-08-31 (nginx error)
+::1/block/CP.Domains.txt		TM-Ginger.com # (Tiny_Model_Ginger)				# Online on: 2016-09-01 - Under massive DDoS-Attack on: 2016-08-31 (nginx error)
+::1/block/CP.Domains.txt		www.TM-Ginger.com # (Tiny_Model_Ginger)				# Online on: 2016-09-01 - Under massive DDoS-Attack on: 2016-08-31 (nginx error)
+127.0.0.1/block/CP.Domains.txt		TM-Kiki.com # (Tiny_Model_Kiki)					# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.TM-Kiki.com # (Tiny_Model_Kiki)				# Online on: 2016-08-31
+::1/block/CP.Domains.txt		TM-Kiki.com # (Tiny_Model_Kiki)					# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.TM-Kiki.com # (Tiny_Model_Kiki)				# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		TMSugar.com # (Tiny_Model_Sugar)				# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.TMSugar.com # (Tiny_Model_Sugar)				# Online on: 2016-08-31
+::1/block/CP.Domains.txt		TMSugar.com # (Tiny_Model_Sugar)				# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.TMSugar.com # (Tiny_Model_Sugar)				# Online on: 2016-08-31
+
+# Newstar-Video.com-Network - Maybe just a "Fame Catcher":
+127.0.0.1/block/CP.Domains.txt		Newstar-Cherry.info # (Newstar_Cherry)				# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.Newstar-Cherry.info # (Newstar_Cherry)			# Online on: 2016-08-31
+::1/block/CP.Domains.txt		Newstar-Cherry.info # (Newstar_Cherry)				# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.Newstar-Cherry.info # (Newstar_Cherry)			# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		NewCherry.net # (New_Cherry)					# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.NewCherry.net # (New_Cherry)				# Online on: 2016-08-31
+::1/block/CP.Domains.txt		NewCherry.net # (New_Cherry)					# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.NewCherry.net # (New_Cherry)				# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		Newstar-Diana.info # (Newstar_Diana)				# Online on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.Newstar-Diana.info # (Newstar_Diana)			# Online on: 2016-08-31
+::1/block/CP.Domains.txt		Newstar-Diana.info # (Newstar_Diana)				# Online on: 2016-08-31
+::1/block/CP.Domains.txt		www.Newstar-Diana.info # (Newstar_Diana)			# Online on: 2016-08-31
+
+
+# Preteen (Lolita/Childlover/Underage) - "Category: 2" - Productions:
+127.0.0.1/block/CP.Domains.txt		BD-Company.com # (BDC)						# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.BD-Company.com # (BDC)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		BD-Company.com # (BDC)						# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.BD-Company.com # (BDC)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		RealLola.in # (RLol)						# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.RealLola.in # (RLol)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		RealLola.in # (RLol)						# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.RealLola.in # (RLol)					# Offline on: 2016-08-29
+
+# Preteen (Lolita/Childlover/Underage) - "Category: 2" - Models:
+127.0.0.1/block/CP.Domains.txt		Lia-Model.com # (Lia_Model)					# Offline on: 2016-09-01 (Error Page)
+127.0.0.1/block/CP.Domains.txt		www.Lia-Model.com # (Lia_Model)					# Offline on: 2016-09-01 (Error Page)
+::1/block/CP.Domains.txt		Lia-Model.com # (Lia_Model)					# Offline on: 2016-09-01 (Error Page)
+::1/block/CP.Domains.txt		www.Lia-Model.com # (Lia_Model)					# Offline on: 2016-09-01 (Error Page)
+127.0.0.1/block/CP.Domains.txt		Evita-Model.com # (Evita_Model)					# Offline on: 2016-08-31
+127.0.0.1/block/CP.Domains.txt		www.Evita-Model.com # (Evita_Model)				# Offline on: 2016-08-31
+::1/block/CP.Domains.txt		Evita-Model.com # (Evita_Model)					# Offline on: 2016-08-31
+::1/block/CP.Domains.txt		www.Evita-Model.com # (Evita_Model)				# Offline on: 2016-08-31
+
+# Preteen (Lolita/Childlover/Underage) - "Category: 1" - Productions:
+127.0.0.1/block/CP.Domains.txt		YoungVideoModels.com # (YVM)					# Offline on: 2016-08-29
+127.0.0.1/block/CP.Domains.txt		www.YoungVideoModels.com # (YVM)				# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		YoungVideoModels.com # (YVM)					# Offline on: 2016-08-29
+::1/block/CP.Domains.txt		www.YoungVideoModels.com # (YVM)				# Offline on: 2016-08-29
+
+
+# Baby (Childlover/Underage) - "Category: 2":
+# None yet
+
+# Baby (Childlover/Underage) - "Category: 1":
+# None yet
+
+
+# Tor-Network:
+127.0.0.1/block/CP.Domains.txt		fqniz5flbpwx3qmb.onion # (FalkoVideo)				# Offline on: 2016-09-01 (The connection has timed out - Maybe DDoS-Attack)
+127.0.0.1/block/CP.Domains.txt		www.fqniz5flbpwx3qmb.onion # (FalkoVideo)			# Offline on: 2016-09-01 (The connection has timed out - Maybe DDoS-Attack)
+::1/block/CP.Domains.txt		fqniz5flbpwx3qmb.onion # (FalkoVideo)				# Offline on: 2016-09-01 (The connection has timed out - Maybe DDoS-Attack)
+::1/block/CP.Domains.txt		www.fqniz5flbpwx3qmb.onion # (FalkoVideo)			# Offline on: 2016-09-01 (The connection has timed out - Maybe DDoS-Attack)
+
+

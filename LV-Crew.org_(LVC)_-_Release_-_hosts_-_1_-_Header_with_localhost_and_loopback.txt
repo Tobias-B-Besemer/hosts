@@ -1,0 +1,148 @@
+# LV-Crew.org_(LVC)_-_hosts_-_1_-_Header_with_localhost_and_loopback.txt
+# (C)reated by: LV-Crew.org (LVC)
+# From        : slim23
+# Version (At): v2016-08-15
+
+# Download-Folder-URL: http://preview.tinyurl.com/LVC-files -> \own_stuff\LV-Crew.org_(LVC)_-_hosts_files\LV-Crew.org_(LVC)_-_hosts\
+
+# More information to security in the internet can be found here:
+# Deutsch: https://www.facebook.com/notes/lv-creworg/sicherheit-im-internet/1055796961184098
+# English: ON REQUEST!
+
+# Includes:
+#  - LV-Crew.org_(LVC)_-_hosts_-_1_-_Header_with_localhost_and_loopback.txt
+#  - LV-Crew.org_(LVC)_-_hosts_-_2_-_--EP--Crew_(EPC)_-_Adobe_Activation_and_Licenses_Domains.txt
+#  - LV-Crew.org_(LVC)_-_hosts_-_3_-_HasH-Crew_(-HH-)_-_(NSA)_Equation_Group.txt
+#  - LV-Crew.org_(LVC)_-_hosts_-_4_-_Header_Deepnet.txt
+#  - LV-Crew.org_(LVC)_-_hosts_-_5_-_--PP--Crew_(-PP-)_-_CP.URLs.Downloads.txt
+#  - LV-Crew.org_(LVC)_-_hosts_-_6_-_--PP--Crew_(-PP-)_-_CP.URLs.Domains.txt
+#  - LV-Crew.org_(LVC)_-_hosts_-_7.0_-_Safer-Networking.org_-_Spybot_-_Search_and_Destroy_(S&D)_Immunisation_List_for_IP4.txt
+#  - LV-Crew.org_(LVC)_-_hosts_-_8.0_-_Safer-Networking.org_-_Spybot_-_Search_and_Destroy_(S&D)_Immunisation_List_for_IP6_by_LVC.txt
+
+# Release Notes:
+# --------------
+# v2016-08-15:
+#  - (New) Download-URL
+#  - Link to more information to security in the internet
+#  - Info to http://www.downforeveryoneorjustme.com/
+#  - Optional Block-Lists-URLs
+#  - All files w/ v2016-08-15
+# v2016-08-14:
+#  - !!! COMPLETE RE-DO !!!
+#  - All files w/ v2016-08-14
+
+
+# This is a HOSTS file used by (Microsoft) TCP/IP (for Windows).
+#
+# This file contains the mappings of IP addresses (IP4/IP6) to host names.
+# Each entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+#
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+#
+# Modified default host file header from Microsoft by LVC
+# Source: %SystemRoot%\System32\drivers\etc\
+
+
+# You can add the following list to your host file, or replace your excisting one.
+
+
+# Here follows a list of the locations of the host file in the file system depending on the OSes.
+#
+# The location of the hosts file in the file system hierarchy varies by operating system.
+# It is usually named hosts, without an extension.
+#
+# Operating System: 		Version(s): 		Location:
+# Unix, Unix-like, POSIX 				/etc/hosts[3]
+# Microsoft Windows 		3.1 			%WinDir%\HOSTS
+# 				95, 98, ME 		%WinDir%\hosts
+# 				NT, 2000, XP, 2003, Vista, 2008, 7, 2012, 8, 10 
+# 							%SystemRoot%\System32\drivers\etc\hosts
+# 							E.g.: C:\Windows\System32\drivers\etc\hosts
+# Windows Mobile, Windows Phone 			Registry key under HKEY_LOCAL_MACHINE\Comm\Tcpip\Hosts
+# Apple Macintosh 		9 and earlier 		Preferences or System folder
+# Mac OS X 			10.0–10.1.5 		(Added through NetInfo or niload)
+# 	 			10.2 and newer		/etc/hosts (a symbolic link to /private/etc/hosts)
+# Novell NetWare 					SYS:etc\hosts
+# OS/2 & eComStation 					"bootdrive":\mptn\etc\
+# Symbian OS 			6.1–9.0 		C:\system\data\hosts
+# 				9.1+ 			C:\private\10000882\hosts
+# MorphOS 			NetStack 		ENVARC:sys/net/hosts
+# AmigaOS 			4	 		DEVS:Internet/hosts
+# AROS				 			ENVARC:AROSTCP/db/hosts
+# Android 						/etc/hosts (a symbolic link to /system/etc/hosts)
+# iOS 				2.0 and newer 		/etc/hosts (a symbolic link to /private/etc/hosts)
+# TOPS-20 						<SYSTEM>HOSTS.TXT
+# Plan 9 						/lib/ndb/hosts
+# BeOS 							/boot/beos/etc/hosts
+# Haiku 						/boot/common/settings/network/hosts
+# OpenVMS 			UCX 			UCX$HOST
+# 				TCPware 		TCPIP$HOST
+# RISC OS 			3.7, 5 			!Boot.Resources.!Internet.files.Hosts
+# 				later boot sequence 	!Boot.Choices.Hardware.Disabled.Internet.Files.Hosts
+#
+# Source: https://en.wikipedia.org/wiki/Hosts_(file)
+
+
+# After editing or replacing your excisting hosts file, you should write protect the file!
+# Why you should do that can you read here in German: http://www.sides.de/hosts.php
+
+
+# After that you maybe have to reboot.
+#
+# Alternatively you can try to flush and new register your DNS from command line:
+# "ipconfig /flushDNS"
+# "ipconfig /registerDNS"
+#
+# More information:
+# https://kb.wisc.edu/page.php?id=562
+# https://en.wikipedia.org/wiki/Ipconfig
+# https://de.wikipedia.org/wiki/Ipconfig
+# https://en.wikipedia.org/wiki/DNS
+
+
+# You can find more information about the host file on Wikipedia:
+# https://en.wikipedia.org/wiki/Hosts_(file)
+
+
+# If you be not sure, if your hosts work, or there is a domain to much on the list, check the domain with this page:
+# http://www.downforeveryoneorjustme.com/
+
+
+# Optional Block-Lists-URLs:
+# - Free: https://www.Bluetack.co.uk/
+# - Free: https://www.Spamhaus.org/
+# - Free: https://www.abuse.ch/
+# - Free: https://www.CIArmy.com/
+# - Free: malc0de
+# - Free: Yoyo
+# - Free: cidr-report
+# - Free: CruzIT
+# - Free: MalwareDomainList
+# - Free & Commercial: https://www.IBlockList.com/ (Only "Pedophiles"-List free!)
+# - Commercial: Squidblacklist
+
+
+# Now we add the localhost/loopback for IP4/IP6:
+
+# IP4:
+127.0.0.1	localhost
+127.0.0.1	loopback
+
+# IP6:
+::1		localhost
+::1		loopback
+
+
+# EOF

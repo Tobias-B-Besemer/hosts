@@ -1,0 +1,169 @@
+﻿# --PP--Crew_(-PP-)_-_Release_-_hosts_-_CP.Downloads.txt
+# (C)reated by: --PP--Crew (-PP-)
+# From        : x-qubic (x3)
+# Version (At): v2016-09-02
+
+# Download-Folder-URL: http://preview.tinyurl.com/PP-files -> \own_stuff\--PP--Crew_(-PP-)_-_Release_-_hosts\
+
+# ONLY IP4!
+
+
+# Illigal looking:
+
+# Baby-Models:
+# 127.0.0.1	http://acidcow.com/pics/22845-child-beauty-pageant-9-pics.html
+#  Little Barbie (9 pics) - Ira Brown, a well-known, 2yo model in the USA	# Online on: 2016-08-29
+# 127.0.0.1	http://acidcow.com/pics/21503-child-beauty-pageant-22-pics.html
+#  u/k
+# 127.0.0.1	http://acidcow.com/pics/19295-child-beauty-16-pics.html
+#  u/k
+# 127.0.0.1	http://acidcow.com/pics/7461-child-beauty-pageant-29-pics.html
+#  u/k
+# 127.0.0.1	http://acidcow.com/pics/13797-child-beauty-pageant-part-2-30-pics.html
+#  u/k
+
+
+# DreamStudioPortal.com-Network - Models:
+
+# Fashion-Baby.info (FB) - Sets 01-54:
+127.0.0.1	http://pastebin.com/JtZmbwNQ # Source				# Online on: 2016-08-29
+127.0.0.1	http://turbobit.net/hv8cz31jfp96/FashionBaby-001.rar.html	# Online on: 2016-08-29
+127.0.0.1	http://turbobit.net/3ftneehvqw4m/FashionBaby-002.rar.html	# Online on: 2016-08-30
+127.0.0.1	http://turbobit.net/d2md02tugy6x/FashionBaby-003.rar.html	# Online on: 2016-08-30
+127.0.0.1	http://turbobit.net/on6rd6qnwzlm/FashionBaby-004.rar.html	# Online on: 2016-08-30
+127.0.0.1	http://turbobit.net/qd8ioh4w6xta/FashionBaby-005.rar.html	# Online on: 2016-08-30
+127.0.0.1	http://turbobit.net/j8e0qlfux2mb/FashionBaby-006.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/fs296vq6vhd3/FashionBaby-007.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/1gfv5zvpq5qz/FashionBaby-008.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/snelvvhvrhma/FashionBaby-009.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/7cmqhwd82irw/FashionBaby-010.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/8hy5owmydiv0/FashionBaby-011.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/tbjz6dtac49v/FashionBaby-012.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/120tk352rrqk/FashionBaby-013.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/vxsgqitg8nie/FashionBaby-014.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/hs4fwn5rryrp/FashionBaby-015.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/r4qc6tmamwm1/FashionBaby-016.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/jiptlq4t77d9/FashionBaby-017.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/8wydoz78hvn9/FashionBaby-018.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/t3dvy4spbtpm/FashionBaby-019.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/wo201y1b8huv/FashionBaby-020.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/wgjabcl48m4e/FashionBaby-021.rar.html	# Offline on: 2016-08-31
+127.0.0.1	http://turbobit.net/6dvkxlgwn417/FashionBaby-022.rar.html	# Offline on: 2016-08-31
+127.0.0.1	http://turbobit.net/8q6ywf58mkoz/FashionBaby-023.rar.html	# Offline on: 2016-08-31
+127.0.0.1	http://turbobit.net/lov1strzu5hl/FashionBaby-024.rar.html	# Offline on: 2016-08-31
+127.0.0.1	http://turbobit.net/2y4l0wexqn8p/FashionBaby-025.rar.html	# Offline on: 2016-08-31
+127.0.0.1	http://turbobit.net/8dqk1ztke8iu/FashionBaby-026.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/uptyl15h4cnz/FashionBaby-027.rar.html	# Offline on: 2016-08-31
+127.0.0.1	http://turbobit.net/sjxo2q9pgz9u/FashionBaby-028.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/67294bgykpyi/FashionBaby-029.rar.html	# Offline on: 2016-08-31
+127.0.0.1	http://turbobit.net/dbf6czgqrs67/FashionBaby-030.rar.html	# Offline on: 2016-08-31
+127.0.0.1	http://turbobit.net/3ir89ljcwwsm/FashionBaby-031.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/s4azdhvx5gv1/FashionBaby-032.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/dksaf96g0vjx/FashionBaby-033.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/ynndk2mvp1q9/FashionBaby-034.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/q6fchhjrpz4q/FashionBaby-035.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/zc85h5yotixc/FashionBaby-036.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/xifrr7yvcyfu/FashionBaby-037.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/uscliuyxy7qi/FashionBaby-038.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/den73zowafx9/FashionBaby-039.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/7awiq7yu7tkd/FashionBaby-040.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/otqt47vy49yd/FashionBaby-041.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/zisqb4rhto92/FashionBaby-042.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/2ly8t7dzh3rg/FashionBaby-043.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/sgd2hag92b7b/FashionBaby-044.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/f5mpx8661ish/FashionBaby-045.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/h47ls39nrnj0/FashionBaby-046.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/24nsubahaa5y/FashionBaby-047.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/1lg41fiah5sa/FashionBaby-048.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/vbykgs6y0x7a/FashionBaby-049.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/ripk5omwu2yw/FashionBaby-050.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/hrfzvw6gxs4c/FashionBaby-051.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/oenqxjsiupoo/FashionBaby-052.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/ue8g1rlhmig4/FashionBaby-053.rar.html	# Online on: 2016-08-31
+127.0.0.1	http://turbobit.net/n3iotc9utwpf/FashionBaby-054.rar.html	# Online on: 2016-08-31
+
+# Play-Kitty.com (PK) - Sets 151-185:
+127.0.0.1	http://pastebin.com/MrYvANGM # Source				# Online on: 2016-08-29
+127.0.0.1	http://uploaded.net/file/y7c7su6e/Play-Kitty__151-154.rar	# Offline on: 2016-08-29
+127.0.0.1	http://uploaded.net/file/qdj0m5zt/Play-Kitty__155-158.rar	# Offline on: 2016-08-29
+127.0.0.1	http://uploaded.net/file/ooet87nu/Play-Kitty__159-161.rar	# Offline on: 2016-08-29
+127.0.0.1	http://uploaded.net/file/4a40qiaz/Play-Kitty__162-165.rar	# Offline on: 2016-08-29
+127.0.0.1	http://uploaded.net/file/ihkhrsk5/Play-Kitty__166-169.rar	# Offline on: 2016-08-29
+127.0.0.1	http://uploaded.net/file/a9dywf60/Play-Kitty__170-174.rar	# Offline on: 2016-08-29
+127.0.0.1	http://uploaded.net/file/ic84gsyy/Play-Kitty__175-179.rar	# Offline on: 2016-08-29
+127.0.0.1	http://uploaded.net/file/zzv87psb/Play-Kitty__180-185.rar	# Offline on: 2016-08-29
+
+
+# Teen (Lolita) - "Category: 2":
+
+# Latin-Angel.com - Sets 01-97 - v1:
+127.0.0.1	http://pastebin.com/rgXzKHSW # Source				# Online on: 2016-08-29
+127.0.0.1	http://imgchili.net/album/c2b90deae1ded95ac7b8317b394cd576
+#  ALL PREVIEWS									# Offline on: 2016-08-29
+127.0.0.1	https://dfiles.eu/files/g4x84gzsr # DOWNLOAD SETS 01-20		# Online on: 2016-08-29
+#  Latin_Angel_-_Sets_01-20.rar
+127.0.0.1	http://depositfiles.org/files/bl3k9c80u # DOWNLOAD SETS 21-40	# Offline on: 2016-08-29
+127.0.0.1	http://bitshare.com/files/e2bwbjfu/Latin_Angel_-_Sets_41-60.rar.html
+#  DOWNLOAD SETS 41-60								# Offline on: 2016-08-29
+127.0.0.1	http://depositfiles.org/files/2lzbmn0zj # DOWNLOAD SETS 61-80	# Offline on: 2016-08-29
+127.0.0.1	http://depositfiles.org/files/xw9cq066i # DOWNLOAD SETS 81-97	# Online on: 2016-08-29
+#  Latin_Angel_-_Sets_81-97.rar
+
+# Latin-Angel.com - Sets 01-97 - v2:
+127.0.0.1	http://pastebin.com/AAf1h3cM # Source				# Online on: 2016-08-29
+#  SUB-URLS NOT YET LISTED!
+
+# Latin-Angel.com - Sets 01-97 - v3:
+127.0.0.1	http://www.vladmodels.pw/search/label/Latin%20Angel # Source	# Online on: 2016-08-29
+#  SUB-URLS NOT YET LISTED!
+
+# Latin-Angel.com - Sets 03:
+http://teenstudentt.blogspot.com/2013/03/latin-angel-set-03.html # Source	# Online on: 2016-08-29
+#  SUB-URLS NOT YET LISTED!
+
+
+# CP - Divers Stuff:
+
+# ICQ:
+127.0.0.1	https://www.icq.com/files/082c6tQGR8k03t6gPRud6IUnp7s1t7IAC	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/09m714PuHakD8Arfm7nfXtNRNmzuvkYAC	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/09UdeeaNqrlTjaZF7G4M5lCPFuV3cY3AC	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/0cU9GFUZdPhpqHFUBa8adqCssZf0aiHAC	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/0cUakjuiPvxGCfHNUziI42f8u8P3LCfAC	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/0ewjmvGXPziWhhKvMmPwzB9djwkpX8AAC	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/0gwco30GotsaSaSi0vfrFZVc2eIwHL1AC	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/82A1WL74kxHbf6tzxzgT0hQlngIrdpQAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/82A1WU12DT7woAWiH4J4K40KhwUcNnjAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/82Q2k61yHTUJw5tTJ3Gsk2QnlwEPw18AI	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/82Q2kwlopmJJffZMYQInNCARvgrrvicAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/83S2UnHopp1kuC4eroct7SYRO3iEyULAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/83S5aeecqg5YVHhLWfO8uALMKuXWq1CAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/83S5aVyxdPGI5gPZkh0SX16Txje5hfkBC	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3S5rinNFDRaQS8ZA6w7IEsINO69RAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3S6skpNVEsZIPWcA5meCjrVwBUhuAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3SDAo5ENSkaW5frlLFFBAP3oFkm1AE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3SDyJBV9I6WL6jpwSaVIb8ggiv8OAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3ShYvgx7xMAiwnVuSEv59c7ikfnfAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3SI8pHttocLYYOSNV8Bqb41DMDyLAI	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3SiNcCfyLwFX0VOVFnX7FEtl4NzSAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3SjKqBZ6di1WRSX8Pwx9ng6RhSQnAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3SkVZrkSVY6fQq6I2mvmuxa5BmnbAI	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3SLkAusNqtx6STNd1gvyVluBtcMMAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3SmHUGPVXpJAbrKpyHqDcSjv0N9WAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3SQHCb85J8c1bN8jI2NjeSgBjgIkAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3ST0WOysEXyGdIZzJg2eNhQ1BNp7AE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85a3StM51ZkjHLBwSqhi59JgmkUXNzAAI	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85G4E56Gv03y8XdX0TUOv7myubAysVhAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/85G4E9swHcjIPmH4bcYJJklEJl3rkDjAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/86c4Eg6Mxhh3Mjpped2HqLEICPlRTsIAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/86s4QzdEmSv2KUC6RKLgsDmGJZn8Do9AI	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/87e5qtPtSoY47oyfX3SjUnMBFRKAdDCAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/89O5W1g6paKz5DapvmXifbJMvN2DrjHAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/8ak7KOAMEZKvCko0IKC8VEoNEju3cBvAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/8ak7KSc2TtQ9WfrzbDmIEbiE4dLoeKpAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/8bC7KOpvq0fbDmAJ9SMR4jMstVTsOVCAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/8bC7KZgNXIXyn3lTTX04pyPZfdfttpIAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/8bC9iDNQyFCY3MxHkfBPm0YAvns1ToFAE	# Online on: 2016-08-10
+127.0.0.1	https://www.icq.com/files/kMmNjY7Hq1195zeKjQ9VCY4aRsnElfxAE	# Online on: 2016-08-10
+
+

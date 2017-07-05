@@ -1,0 +1,314 @@
+# HasH-Crew_(-HH-)_-_(NSA)_Equation_Group.txt
+# (C)reated by: HasH-Crew (HHC)
+# From        : Eve L.
+# Version (At): v2016-08-15
+
+# Download-Folder-URL: http://preview.tinyurl.com/23is42 -> \own_stuff\HasH-Crew_(-HH-)_-_hosts\
+
+# Here starts the (NSA) "Equation Group"-Stuff ... ^^
+# (C&C Servers [Domains (hostnames) & IPs])
+
+# This list includes the ATM known Domains & IPs from the (NSA) Equation Group.
+
+# We map the Domains & IPs from the (NSA) Equation Group to the localhost,
+# so no connect via the OS is possible!
+
+# We used a list supplied by Kaspersky Lab via SecureList.com:
+# https://securelist.com/blog/research/68750/equation-the-death-star-of-malware-galaxy/
+
+
+# DoubleFantasy IP4:
+127.0.0.1	advancing-technology.com
+127.0.0.1	avidnewssource.com
+127.0.0.1	businessdealsblog.com
+127.0.0.1	businessedgeadvance.com
+127.0.0.1	charging-technology.com
+127.0.0.1	computertechanalysis.com
+127.0.0.1	config.getmyip.com # SINKHOLED BY KASPERSKY LAB
+127.0.0.1	globalnetworkanalys.com
+127.0.0.1	melding-technology.com
+127.0.0.1	myhousetechnews.com # SINKHOLED BY KASPERSKY LAB
+127.0.0.1	newsterminalvelocity.com # SINKHOLED BY KASPERSKY LAB
+127.0.0.1	selective-business.com
+127.0.0.1	slayinglance.com
+127.0.0.1	successful-marketing-now.com # SINKHOLED BY KASPERSKY LAB
+127.0.0.1	taking-technology.com
+127.0.0.1	techasiamusicsvr.com # SINKHOLED BY KASPERSKY LAB
+127.0.0.1	technicaldigitalreporting.com
+127.0.0.1	timelywebsitehostesses.com
+127.0.0.1	www.dt1blog.com
+127.0.0.1	www.forboringbusinesses.com
+127.0.0.1	dt1blog.com             # W/o "www." by HHC
+127.0.0.1	forboringbusinesses.com # W/o "www." by HHC
+
+# EquationLaser IP4:
+127.0.0.1	lsassoc.com # re-registered, not malicious at the moment
+127.0.0.1	gar-tech.com # SINKHOLED BY KASPERSKY LAB
+
+# Fanny IP4:
+127.0.0.1	webuysupplystore.mooo.com # SINKHOLED BY KASPERSKY LAB
+
+# EquationDrug IP4:
+127.0.0.1	newjunk4u.com
+127.0.0.1	easyadvertonline.com
+127.0.0.1	newip427.changeip.net # SINKHOLED BY KASPERSKY LAB
+127.0.0.1	ad-servicestats.net # SINKHOLED BY KASPERSKY LAB
+127.0.0.1	subad-server.com # SINKHOLED BY KASPERSKY LAB
+127.0.0.1	ad-noise.net
+127.0.0.1	ad-void.com
+127.0.0.1	aynachatsrv.com
+127.0.0.1	damavandkuh.com
+127.0.0.1	fnlpic.com
+127.0.0.1	monster-ads.net
+127.0.0.1	nowruzbakher.com
+127.0.0.1	sherkhundi.com
+127.0.0.1	quik-serv.com
+127.0.0.1	nickleplatedads.com
+127.0.0.1	arabtechmessenger.net
+127.0.0.1	amazinggreentechshop.com
+127.0.0.1	foroushi.net
+127.0.0.1	technicserv.com
+127.0.0.1	goldadpremium.com
+127.0.0.1	honarkhaneh.net
+127.0.0.1	parskabab.com
+127.0.0.1	technicupdate.com
+127.0.0.1	technicads.com
+127.0.0.1	customerscreensavers.com
+127.0.0.1	darakht.com
+127.0.0.1	ghalibaft.com
+127.0.0.1	adservicestats.com
+127.0.0.1	247adbiz.net # SINKHOLED BY KASPERSKY LAB
+127.0.0.1	webbizwild.com
+127.0.0.1	roshanavar.com
+127.0.0.1	afkarehroshan.com
+127.0.0.1	thesuperdeliciousnews.com
+127.0.0.1	adsbizsimple.com
+127.0.0.1	goodbizez.com
+127.0.0.1	meevehdar.com
+127.0.0.1	xlivehost.com
+127.0.0.1	gar-tech.com # SINKHOLED BY KASPERSKY LAB
+127.0.0.1	downloadmpplayer.com
+127.0.0.1	honarkhabar.com
+127.0.0.1	techsupportpwr.com
+127.0.0.1	webbizwild.com
+127.0.0.1	zhalehziba.com
+127.0.0.1	serv-load.com
+127.0.0.1	wangluoruanjian.com
+127.0.0.1	islamicmarketing.net
+127.0.0.1	noticiasftpsrv.com
+127.0.0.1	coffeehausblog.com
+127.0.0.1	platads.com
+127.0.0.1	havakhosh.com
+127.0.0.1	toofanshadid.com
+127.0.0.1	bazandegan.com
+127.0.0.1	sherkatkonandeh.com
+127.0.0.1	mashinkhabar.com
+127.0.0.1	quickupdateserv.com
+127.0.0.1	rapidlyserv.com
+
+# GrayFish IP4:
+127.0.0.1	ad-noise.net
+127.0.0.1	business-made-fun.com
+127.0.0.1	businessdirectnessource.com
+127.0.0.1	charmedno1.com
+127.0.0.1	cribdare2no.com
+127.0.0.1	dowelsobject.com
+127.0.0.1	following-technology.com
+127.0.0.1	forgotten-deals.com
+127.0.0.1	functional-business.com
+127.0.0.1	housedman.com
+127.0.0.1	industry-deals.com
+127.0.0.1	listennewsnetwork.com
+127.0.0.1	phoneysoap.com
+127.0.0.1	posed2shade.com
+127.0.0.1	quik-serv.com
+127.0.0.1	rehabretie.com
+127.0.0.1	speedynewsclips.com
+127.0.0.1	teatac4bath.com
+127.0.0.1	unite3tubes.com
+127.0.0.1	unwashedsound.com
+
+# TripleFantasy IP4:
+127.0.0.1	arm2pie.com
+127.0.0.1	brittlefilet.com
+127.0.0.1	cigape.net
+127.0.0.1	crisptic01.net
+127.0.0.1	fliteilex.com
+127.0.0.1	itemagic.net
+127.0.0.1	micraamber.net
+127.0.0.1	mimicrice.com
+127.0.0.1	rampagegramar.com
+127.0.0.1	rubi4edit.com
+127.0.0.1	rubiccrum.com
+127.0.0.1	rubriccrumb.com
+127.0.0.1	team4heat.net
+127.0.0.1	tropiccritics.com
+
+# Equation group's exploitation servers IP4:
+127.0.0.1	standardsandpraiserepurpose.com
+127.0.0.1	suddenplot.com
+127.0.0.1	technicalconsumerreports.com
+127.0.0.1	technology-revealed.com
+
+# IPs hardcoded in malware configuration blocks IP4:
+127.0.0.1	149.12.71.2
+127.0.0.1	190.242.96.212
+127.0.0.1	190.60.202.4
+127.0.0.1	195.128.235.227
+127.0.0.1	195.128.235.231
+127.0.0.1	195.128.235.233
+127.0.0.1	195.128.235.235
+127.0.0.1	195.81.34.67
+127.0.0.1	202.95.84.33
+127.0.0.1	203.150.231.49
+127.0.0.1	203.150.231.73
+127.0.0.1	210.81.52.120
+127.0.0.1	212.61.54.239
+127.0.0.1	41.222.35.70
+127.0.0.1	62.216.152.67
+127.0.0.1	64.76.82.52
+127.0.0.1	80.77.4.3
+127.0.0.1	81.31.34.175
+127.0.0.1	81.31.36.174
+127.0.0.1	81.31.38.163
+127.0.0.1	81.31.38.166
+127.0.0.1	84.233.205.99
+127.0.0.1	85.112.1.83
+127.0.0.1	87.255.38.2
+127.0.0.1	89.18.177.3
+
+
+# DoubleFantasy IP6:
+::1		advancing-technology.com
+::1		avidnewssource.com
+::1		businessdealsblog.com
+::1		businessedgeadvance.com
+::1		charging-technology.com
+::1		computertechanalysis.com
+::1		config.getmyip.com # SINKHOLED BY KASPERSKY LAB
+::1		globalnetworkanalys.com
+::1		melding-technology.com
+::1		myhousetechnews.com # SINKHOLED BY KASPERSKY LAB
+::1		newsterminalvelocity.com # SINKHOLED BY KASPERSKY LAB
+::1		selective-business.com
+::1		slayinglance.com
+::1		successful-marketing-now.com # SINKHOLED BY KASPERSKY LAB
+::1		taking-technology.com
+::1		techasiamusicsvr.com # SINKHOLED BY KASPERSKY LAB
+::1		technicaldigitalreporting.com
+::1		timelywebsitehostesses.com
+::1		www.dt1blog.com
+::1		www.forboringbusinesses.com
+::1		dt1blog.com             # W/o "www." by HHC
+::1		forboringbusinesses.com # W/o "www." by HHC
+
+# EquationLaser IP6:
+::1		lsassoc.com # re-registered, not malicious at the moment
+::1		gar-tech.com # SINKHOLED BY KASPERSKY LAB
+
+# Fanny IP6:
+::1		webuysupplystore.mooo.com # SINKHOLED BY KASPERSKY LAB
+
+# EquationDrug IP6:
+::1		newjunk4u.com
+::1		easyadvertonline.com
+::1		newip427.changeip.net # SINKHOLED BY KASPERSKY LAB
+::1		ad-servicestats.net # SINKHOLED BY KASPERSKY LAB
+::1		subad-server.com # SINKHOLED BY KASPERSKY LAB
+::1		ad-noise.net
+::1		ad-void.com
+::1		aynachatsrv.com
+::1		damavandkuh.com
+::1		fnlpic.com
+::1		monster-ads.net
+::1		nowruzbakher.com
+::1		sherkhundi.com
+::1		quik-serv.com
+::1		nickleplatedads.com
+::1		arabtechmessenger.net
+::1		amazinggreentechshop.com
+::1		foroushi.net
+::1		technicserv.com
+::1		goldadpremium.com
+::1		honarkhaneh.net
+::1		parskabab.com
+::1		technicupdate.com
+::1		technicads.com
+::1		customerscreensavers.com
+::1		darakht.com
+::1		ghalibaft.com
+::1		adservicestats.com
+::1		247adbiz.net # SINKHOLED BY KASPERSKY LAB
+::1		webbizwild.com
+::1		roshanavar.com
+::1		afkarehroshan.com
+::1		thesuperdeliciousnews.com
+::1		adsbizsimple.com
+::1		goodbizez.com
+::1		meevehdar.com
+::1		xlivehost.com
+::1		gar-tech.com # SINKHOLED BY KASPERSKY LAB
+::1		downloadmpplayer.com
+::1		honarkhabar.com
+::1		techsupportpwr.com
+::1		webbizwild.com
+::1		zhalehziba.com
+::1		serv-load.com
+::1		wangluoruanjian.com
+::1		islamicmarketing.net
+::1		noticiasftpsrv.com
+::1		coffeehausblog.com
+::1		platads.com
+::1		havakhosh.com
+::1		toofanshadid.com
+::1		bazandegan.com
+::1		sherkatkonandeh.com
+::1		mashinkhabar.com
+::1		quickupdateserv.com
+::1		rapidlyserv.com
+
+# GrayFish IP6:
+::1		ad-noise.net
+::1		business-made-fun.com
+::1		businessdirectnessource.com
+::1		charmedno1.com
+::1		cribdare2no.com
+::1		dowelsobject.com
+::1		following-technology.com
+::1		forgotten-deals.com
+::1		functional-business.com
+::1		housedman.com
+::1		industry-deals.com
+::1		listennewsnetwork.com
+::1		phoneysoap.com
+::1		posed2shade.com
+::1		quik-serv.com
+::1		rehabretie.com
+::1		speedynewsclips.com
+::1		teatac4bath.com
+::1		unite3tubes.com
+::1		unwashedsound.com
+
+# TripleFantasy IP6:
+::1		arm2pie.com
+::1		brittlefilet.com
+::1		cigape.net
+::1		crisptic01.net
+::1		fliteilex.com
+::1		itemagic.net
+::1		micraamber.net
+::1		mimicrice.com
+::1		rampagegramar.com
+::1		rubi4edit.com
+::1		rubiccrum.com
+::1		rubriccrumb.com
+::1		team4heat.net
+::1		tropiccritics.com
+
+# Equation group's exploitation servers IP6:
+::1		standardsandpraiserepurpose.com
+::1		suddenplot.com
+::1		technicalconsumerreports.com
+::1		technology-revealed.com
+
+
